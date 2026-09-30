@@ -1,4 +1,4 @@
-##  ⚡ Welcome to my profile!
+## Welcome to my profile!
 
 <!--
 **YLBlack/YLBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ A passionate Information Systems & Computer Applications student interested in b
 
 ---
 
-### 💻 Technical Stack
+### Technical Stack
 
 * **Languages:** - still learning
 * **Automation & Scraping:** Selenium, Playwright, Webhooks (Telegram / Discord), and i have used AI for them
@@ -28,10 +28,10 @@ A passionate Information Systems & Computer Applications student interested in b
 
 ---
 
-### 🚀 Projects & Focus Areas
+### Projects & Focus Areas
 
-* 🤖 **Automation Bots & Scripts:** Building automated deal monitors.
-* 🎮 **Game Localization:** Designing localized Arabic UI assets, Translate, Vector Logos, And Font Files for Various Indie Games.
+**Automation Bots & Scripts:** Building automated deal monitors.
+**Game Localization:** Designing localized Arabic UI assets, Translate, Vector Logos, And Font Files for Various Indie Games.
 
 ---
 
